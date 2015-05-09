@@ -1,0 +1,16 @@
+body {
+	margin-top: 75px;
+}
+
+#comments, #comments li {
+    margin: 0;
+    padding: 0;
+}
+
+#comments li {
+    list-style: none;
+}
+
+footer {
+    margin: 10px 0;
+}
